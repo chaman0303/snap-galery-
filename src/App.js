@@ -2,7 +2,7 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import NavbarComponent from "./Components/Navbar";
 import Photos from "./Components/Photo/Photos";
-import Login from "./Components/Login";
+import Login from "./Components/LoginWithValidation";
 // import Signup from "./Components/Signup/SignUp";
 import SignupWithValidation from "./Components/Signup/SignupWithValidation";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
